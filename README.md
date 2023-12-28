@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm currently working on a NLP project<br> I’m currently learning Machine Learning, Artificial Intelligence, Data Science
+📫 How to reach me **gauravdesale08@gmail.com**
 
 
 ## 🌐 Socials:
