@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a NLP project<br> I’m currently learning Machine Learning, Artificial Intelligence, Data Science<br> 📫 How to reach me **gauravdesale08@gmail.com**
+I'm currently learning Computer Vision and YOLOv8<br> I’m currently learning Machine Learning, Artificial Intelligence, Data Science<br> 📫 How to reach me **gauravdesale08@gmail.com**
 
 
 ## 🌐 Socials:
