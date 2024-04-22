@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Computer Vision and YOLOv8<br> 📫 How to reach me **gauravdesale08@gmail.com**
+I'm currently learning Big Data<br> 📫 How to reach me **gauravdesale08@gmail.com**
 
 
 ## 🌐 Socials:
